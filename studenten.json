@@ -1,0 +1,14 @@
+[
+    {
+        "naam": "Jan Janssen",
+        "leeftijd": 20,
+        "vakgebied": "Informatica",
+        "cijfer": 8.5
+    },
+    {
+        "naam": "Piet Pieters",
+        "leeftijd": 22,
+        "vakgebied": "Wiskunde",
+        "cijfer": 7.2
+    }
+]
